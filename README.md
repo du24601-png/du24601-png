@@ -107,8 +107,6 @@
 
 > **Product belief** — AI 产品的价值不在于“能生成”，而在于能否进入真实工作流、被可靠验证，并把最终决定留给人。
 
-<sub>商科背景 × AI 产品实践 · 中文 / English · <a href="mailto:you@example.com">Let’s talk</a></sub>
-## Hi there 👋
 
 <!--
 **du24601-png/du24601-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
