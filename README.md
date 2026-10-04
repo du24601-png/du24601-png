@@ -1,90 +1,119 @@
-# Raymund
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Hi%2C%20I%27m%20Raymund&fontSize=44&fontAlignY=32&desc=AI%20Product%20Builder%20%C2%B7%20building%20verifiable%20AI%20products&descAlignY=55&descSize=16&animation=fadeIn" width="100%" alt="Raymund — AI Product Builder" />
+</div>
 
-**AI Product Manager · Product Builder**
+<div align="center">
+  <a href="https://github.com/du24601-png/du24601-png/blob/main/DuRui_Resume.pdf"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=22&pause=1200&color=A371F7&center=true&vCenter=true&width=760&height=60&lines=%E6%8A%8A%E6%A8%A1%E7%B3%8A%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%8C%E5%81%9A%E6%88%90%E5%8F%AF%E9%AA%8C%E8%AF%81%E7%9A%84+AI+%E4%BA%A7%E5%93%81;Agent+%C2%B7+RAG+%C2%B7+Prompt+%C2%B7+LLM+Evals+%C2%B7+MCP;Preview+%E2%86%92+Adopt%EF%BC%8C%E4%BA%BA%E4%BF%9D%E7%95%99%E6%9C%80%E7%BB%88%E5%86%B3%E5%AE%9A%E6%9D%83;Looking+for+AI+PM+roles+%C2%B7+Shanghai+%2F+Remote" alt="把模糊的问题，做成可验证的 AI 产品" /></a>
+  <p><img src="https://komarev.com/ghpvc/?username=du24601-png&style=flat-square&color=A371F7&label=%E8%AE%BF%E5%AE%A2%E6%95%B0" alt="访客数" /></p>
+  <p>
+    <a href="mailto:du24601@gmail.com"><img src="https://img.shields.io/badge/Gmail-du24601%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://raymund-portfolio-rouge.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%E4%BD%9C%E5%93%81%E9%9B%86-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="作品集" /></a>
+    <a href="https://github.com/du24601-png/du24601-png/blob/main/DuRui_Resume.pdf"><img src="https://img.shields.io/badge/Resume-%E7%AE%80%E5%8E%86PDF-0EA5A5?style=for-the-badge&logo=googledocs&logoColor=white" alt="简历" /></a>
+  </p>
+  <p><sub><a href="#about">关于我</a> · <a href="#work">代表项目</a> · <a href="#writing">产品思考</a> · <a href="#contact">联系我</a></sub></p>
+</div>
+
+## 🧭 关于我
+
+<a id="about"></a>
 
 我把模糊的业务问题，转化为可验证、可交付的 AI 产品：从用户研究与产品判断出发，设计人机协作工作流，并用原型、评估和真实反馈持续迭代。
 
 商科训练让我关注商业价值与用户选择，动手构建让我理解模型能力、系统边界与落地成本。中南大学会计学本科（AI 智能财务方向），有券商研究与审计实习经历，对数据准确性高度敏感。现在正在寻找 **AI 产品经理** 机会（Shanghai / Remote）。
 
-[代表项目](#代表项目--selected-work) · [产品思考](#产品思考--product-thinking) · [简历 PDF](https://github.com/du24601-png/du24601-png/blob/main/DuRui_Resume.pdf) · [作品集](https://raymund-portfolio-rouge.vercel.app/) · [联系我](mailto:du24601@gmail.com)
+> 独立完成 3 个 AI 产品从需求、设计、AI 编程开发到评测的全过程 —— 相信用会提方案，也信人做决定。
 
-## 关于我 · About
+## 🧰 技能与工具
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<strong>Product Judgment · 产品判断</strong><br>
-从用户问题和商业目标出发，明确产品边界、优先级与成功标准。
-</td>
-<td width="50%" valign="top">
-<strong>AI Fluency · AI 系统理解</strong><br>
-理解模型能力与局限，把 Prompt、Agent、RAG 和评估转化为产品机制。
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<strong>User Insight · 用户洞察</strong><br>
-通过访谈、观察与任务拆解，找到真实摩擦点，而不是追逐伪需求。
-</td>
-<td width="50%" valign="top">
-<strong>Delivery &amp; Validation · 交付与验证</strong><br>
-用原型、数据和反馈快速验证判断，并推动产品从概念走向可用。
-</td>
-</tr>
-</table>
+**AI 产品**
 
-## Toolbox
+![Agent / Tool Use](https://img.shields.io/badge/Agent_%2F_Tool_Use-7C3AED?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-2563EB?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0891B2?style=flat-square) ![LLM Evals](https://img.shields.io/badge/LLM_Evals-059669?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-D97706?style=flat-square) ![Human in the Loop](https://img.shields.io/badge/Human_in_the_Loop-DB2777?style=flat-square)
 
-`Product Discovery` `Workflow Design` `PRD` `Figma` `SQL` `Python`  
-`Agent / RAG` `Prompt Design` `LLM Evals` `Human-in-the-loop`
+**产品与数据**
 
-## 代表项目 · Selected Work
+![PRD](https://img.shields.io/badge/PRD-4F46E5?style=flat-square) ![Figma](https://img.shields.io/badge/Figma-A259FF?style=flat-square&logo=figma&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 🚀 代表项目
+
+<a id="work"></a>
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>01 · <a href="https://github.com/du24601-png/research-canvas">Research Canvas</a></h3>
-<p><strong>可溯源 AI 投研分析 Agent</strong> — 把上市公司财务比较，变成「每个数字都能点开看来源」的可验证研究画布：自然语言提问，图表先预览、用户采纳才进入画布。源自券商实习中「查数、导表、制图占掉大半分析时间」的真实痛点。</p>
-<p><strong>My role</strong> — 0→1 产品设计与构建：定义 Preview → Adopt 的人机边界，设计「数值 → Dataset → 来源」的溯源机制。</p>
-<p><strong>Proof</strong> — 模型做选择、代码做计算，AI 不手编数字、不擅改画布；场景用例评测中，针对「该停时没停」「用相近指标冒充查不到的指标」等失败模式持续修订规则，通过率从 75% 提升到 <strong>91.6%</strong>。附完整产品演示视频，可自托管。</p>
-<p><code>AI Agent</code> <code>0→1</code> <code>人机协作</code></p>
-<p><a href="https://github.com/du24601-png/research-canvas">Repository</a> · <a href="https://github.com/du24601-png/research-canvas#先看产品">产品演示</a></p>
+  <a href="https://github.com/du24601-png/research-canvas">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=du24601-png&repo=research-canvas&theme=github_dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=du24601-png&repo=research-canvas&hide_border=true" alt="research-canvas" width="100%" />
+    </picture>
+  </a>
+  <p>🎯 <strong>0→1 设计与构建</strong> — Preview → Adopt 人机边界 +「数值 → Dataset → 来源」溯源机制<br>📈 评测通过率 75% → <strong>91.6%</strong> · 附完整产品演示视频</p>
 </td>
 <td width="50%" valign="top">
-<h3>02 · <a href="https://github.com/du24601-png/OMNA">OMNA 知我</a></h3>
-<p><strong>跨 Agent 本地个人记忆管理</strong> — 「换一个 AI，也不用重新介绍自己。」多个 AI 工具的记忆互不共享、上云又有隐私风险：把记忆保存在本机，通过 MCP 按授权提供给 Claude Code、Codex 等客户端。</p>
-<p><strong>My role</strong> — 0→1 产品设计：核心机制是「AI 提议、用户确认才记住」，每个 Agent 单独授权，谁读了什么每一次都有记录。</p>
-<p><strong>Proof</strong> — 2.0 版本已上线（Windows 桌面端）：待确认队列、Agent 授权与读取留痕完整落地；已适配 Claude Code 等 <strong>6 个客户端</strong>，模拟中文查询 Top-5 命中率 <strong>95%</strong>。</p>
-<p><code>AI Product</code> <code>Privacy-first</code> <code>Desktop</code></p>
-<p><a href="https://github.com/du24601-png/OMNA">Repository</a> · <a href="https://github.com/du24601-png/OMNA/blob/HEAD/docs/competitive-analysis.md">竞品分析</a></p>
+  <a href="https://github.com/du24601-png/OMNA">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=du24601-png&repo=OMNA&theme=github_dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=du24601-png&repo=OMNA&hide_border=true" alt="OMNA" width="100%" />
+    </picture>
+  </a>
+  <p>🎯 <strong>0→1 产品设计</strong> — AI 提议、用户确认才记住，每个 Agent 单独授权、读取留痕<br>📈 已适配 <strong>6 个客户端</strong> · Top-5 命中率 <strong>95%</strong></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>03 · <a href="https://github.com/du24601-png/hs-copilot-web">HS Copilot</a></h3>
-<p><strong>面向中小出海电商的 AI 报关归类助手</strong> — 在 1.2 万条税则中为商品找到 10 位 HS 编码，填错会多缴税或清关受阻；直接问大模型，常得到看似专业的错误编码。HS Copilot 用自然语言理解商品、自动追问关键属性，编码与税率只从既定税则库读取。</p>
-<p><strong>My role</strong> — 产品与工程一体：设计 HS 编码查询与决策 AI 工作流，让每个结论带依据；用 Node.js + SQLite 实现运行时零第三方依赖的后端。</p>
-<p><strong>Proof</strong> — 已部署阿里云（PM2 + Nginx）真实可用；自建两套测试集：出海电商常见商品准确率 <strong>80%</strong>，海关疑难判例经多轮迭代从 10% 提升到 <strong>35%</strong>。</p>
-<p><code>Vertical AI</code> <code>Workflow</code> <code>Deployed</code></p>
-<p><a href="https://github.com/du24601-png/hs-copilot-web">Repository</a></p>
+  <a href="https://github.com/du24601-png/hs-copilot-web">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=du24601-png&repo=hs-copilot-web&theme=github_dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=du24601-png&repo=hs-copilot-web&hide_border=true" alt="hs-copilot-web" width="100%" />
+    </picture>
+  </a>
+  <p>🎯 <strong>产品 + 工程一体</strong> — 结论必带依据，Node.js + SQLite 零第三方依赖后端<br>📈 已部署阿里云 · 常见商品准确率 <strong>80%</strong> · 疑难判例 10% → <strong>35%</strong></p>
 </td>
 <td width="50%" valign="top">
-<h3>What I optimize for</h3>
-<p>不是展示功能数量，而是讲清楚问题、关键判断、我的角色，以及产品如何被验证。</p>
-<p><strong>Case study structure</strong> — Context → Decision → Build → Evidence → Learning</p>
-<p><strong>三个项目的同一件事</strong> — AI 提出方案，人保留决定权：Preview → Adopt、确认后才记住、结论必带依据。</p>
+  <h3>💡 What I optimize for</h3>
+  <p>不堆功能数量，讲清楚问题、关键判断、我的角色，以及产品如何被验证。</p>
+  <p><strong>Case study structure</strong> — Context → Decision → Build → Evidence → Learning</p>
+  <p><strong>三个项目的同一件事</strong> — AI 提出方案，人保留决定权：Preview → Adopt、确认后才记住、结论必带依据。</p>
 </td>
 </tr>
 </table>
 
-## 产品思考 · Product Thinking
+## 📊 GitHub 数据
 
-- <a href="https://github.com/du24601-png/OMNA/blob/HEAD/docs/competitive-analysis.md"><strong>OMNA 竞品分析</strong></a> — AI 记忆产品的差异化：本地优先、用户确认、可审计的读取记录。 <code>Product Teardown</code>
-- <a href="https://github.com/du24601-png/OMNA/blob/HEAD/docs/gtm/OMNA_US_GTM_Strategy_v1.pdf"><strong>OMNA 美国市场 GTM 方案（23 页）</strong></a> — 从产品定位到推广执行的完整规划。 <code>GTM</code>
-- <a href="https://github.com/du24601-png/research-canvas#三个核心差异"><strong>Research Canvas 的三个核心差异</strong></a> — 真实数据、用户控制、数字可追溯：如何让 AI 的产出值得信任。 <code>AI Product</code>
+<table>
+<tr>
+<td width="50%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=du24601-png&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=du24601-png&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" alt="GitHub stats" width="100%" />
+  </picture>
+</td>
+<td width="50%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=du24601-png&layout=compact&hide_border=true&langs_count=8&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=du24601-png&layout=compact&hide_border=true&langs_count=8" alt="Top languages" width="100%" />
+  </picture>
+</td>
+</tr>
+</table>
+
+## ✍️ 产品思考
+
+<a id="writing"></a>
+
+- 🧠 **[OMNA 竞品分析](https://github.com/du24601-png/OMNA/blob/HEAD/docs/competitive-analysis.md)** — AI 记忆产品的差异化：本地优先、用户确认、可审计的读取记录。 `Product Teardown`
+- 🌏 **[OMNA 美国市场 GTM 方案（23 页）](https://github.com/du24601-png/OMNA/blob/HEAD/docs/gtm/OMNA_US_GTM_Strategy_v1.pdf)** — 从产品定位到推广执行的完整规划。 `GTM`
+- 🔍 **[Research Canvas 的三个核心差异](https://github.com/du24601-png/research-canvas#三个核心差异)** — 真实数据、用户控制、数字可追溯：如何让 AI 的产出值得信任。 `AI Product`
+
+## 📮 联系我
+
+<a id="contact"></a>
+
+- 📧 邮箱：**[du24601@gmail.com](mailto:du24601@gmail.com)**（微信同手机号，见简历）
+- 🎨 作品集：**[raymund-portfolio-rouge.vercel.app](https://raymund-portfolio-rouge.vercel.app/)**
+- 📄 简历：**[在线查看 PDF](https://github.com/du24601-png/du24601-png/blob/main/DuRui_Resume.pdf)**
 
 > **Product belief** — AI 产品的价值不在于“能生成”，而在于能否进入真实工作流、被可靠验证，并把最终决定留给人。
 
-## 联系我 · Contact
-
-📧 [du24601@gmail.com](mailto:du24601@gmail.com) · 🎨 [作品集](https://raymund-portfolio-rouge.vercel.app/) · 📄 [简历 PDF](https://github.com/du24601-png/du24601-png/blob/main/DuRui_Resume.pdf)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" alt="" />
+</div>
