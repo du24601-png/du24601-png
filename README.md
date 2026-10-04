@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/du24601-png/du24601-png/blob/main/DuRui_Resume.pdf"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=22&pause=1200&color=A371F7&center=true&vCenter=true&width=760&height=60&lines=%E6%8A%8A%E6%A8%A1%E7%B3%8A%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%8C%E5%81%9A%E6%88%90%E5%8F%AF%E9%AA%8C%E8%AF%81%E7%9A%84+AI+%E4%BA%A7%E5%93%81;Agent+%C2%B7+RAG+%C2%B7+Prompt+%C2%B7+LLM+Evals+%C2%B7+MCP;Preview+%E2%86%92+Adopt%EF%BC%8C%E4%BA%BA%E4%BF%9D%E7%95%99%E6%9C%80%E7%BB%88%E5%86%B3%E5%AE%9A%E6%9D%83;Looking+for+AI+PM+roles+%C2%B7+Shanghai+%2F+Remote" alt="把模糊的问题，做成可验证的 AI 产品" /></a>
-  <p><img src="https://komarev.com/ghpvc/?username=du24601-png&style=flat-square&color=A371F7&label=%E8%AE%BF%E5%AE%A2%E6%95%B0" alt="访客数" /></p>
+  <p><img src="https://komarev.com/ghpvc/?username=du24601-png&style=flat-square&color=A371F7&abbreviated=true&label=%E8%AE%BF%E5%AE%A2%E6%95%B0" alt="访客数" /></p>
   <p>
     <a href="mailto:du24601@gmail.com"><img src="https://img.shields.io/badge/Gmail-du24601%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://raymund-portfolio-rouge.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%E4%BD%9C%E5%93%81%E9%9B%86-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="作品集" /></a>
