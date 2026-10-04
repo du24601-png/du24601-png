@@ -6,7 +6,7 @@
 
 商科训练让我关注商业价值与用户选择，动手构建让我理解模型能力、系统边界与落地成本。现在正在寻找 **AI 产品经理** 机会（Shanghai / Remote）。
 
-[代表项目](#代表项目--selected-work) · [产品思考](#产品思考--product-thinking) · [简历](https://your.resume) · [联系我](mailto:you@example.com)
+[代表项目](#代表项目--selected-work) · [产品思考](#产品思考--product-thinking)
 
 ## 关于我 · About
 
@@ -43,82 +43,44 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>01 · [旗舰项目名称]</h3>
-<p>[一句话说明：为哪类用户，在什么场景中，解决了什么问题。]</p>
-<p><strong>My role</strong> — [产品判断、流程设计、协作与交付]</p>
-<p><strong>Proof</strong> — [真实结果、评估结论或关键学习]</p>
-<p><code>AI Product</code> <code>0→1</code> <code>[领域标签]</code></p>
-<p><a href="#">Live Demo</a> · <a href="#">Case Study</a> · <a href="#">Repository</a></p>
+<h3>01 · <a href="https://github.com/du24601-png/research-canvas">Research Canvas</a></h3>
+<p><strong>交互画布投研 Agent</strong> — 把上市公司财务比较，变成「每个数字都能点开看来源」的可验证研究画布：自然语言提问，图表先预览、用户采纳才进入画布。</p>
+<p><strong>My role</strong> — 0→1 产品设计与构建：定义 Preview → Adopt 的人机边界，设计「数值 → Dataset → 来源」的溯源机制。</p>
+<p><strong>Proof</strong> — 模型做选择、代码做计算，AI 不手编数字、不擅改画布；主路径已跑通财务比较、多轮调整与数值溯源，附完整产品演示视频，可自托管。</p>
+<p><code>AI Agent</code> <code>0→1</code> <code>人机协作</code></p>
+<p><a href="https://github.com/du24601-png/research-canvas">Repository</a> · <a href="https://github.com/du24601-png/research-canvas#先看产品">产品演示</a></p>
 </td>
 <td width="50%" valign="top">
-<h3>02 · [项目名称]</h3>
-<p>[一句话说明用户问题、产品方案与核心价值。]</p>
-<p><strong>My role</strong> — [关键职责]</p>
-<p><strong>Proof</strong> — [结果或学习]</p>
-<p><code>Workflow</code> <code>Prototype</code> <code>[领域标签]</code></p>
-<p><a href="#">Demo</a> · <a href="#">Case Study</a></p>
+<h3>02 · <a href="https://github.com/du24601-png/OMNA">OMNA 知我</a></h3>
+<p><strong>本地个人记忆工具</strong> — 「换一个 AI，也不用重新介绍自己。」把背景、偏好与正在做的事保存在本机，Claude Code、Codex 等 AI 工具按你的授权读取。</p>
+<p><strong>My role</strong> — 0→1 产品设计：核心机制是「AI 提议、用户确认才记住」，每个 Agent 单独授权，谁读了什么每一次都有记录。</p>
+<p><strong>Proof</strong> — 2.0 版本已上线（Windows 桌面端）：待确认队列、Agent 授权与读取记录完整落地；独立完成竞品分析与美国市场 GTM 规划。</p>
+<p><code>AI Product</code> <code>Privacy-first</code> <code>Desktop</code></p>
+<p><a href="https://github.com/du24601-png/OMNA">Repository</a> · <a href="https://github.com/du24601-png/OMNA/blob/HEAD/docs/competitive-analysis.md">竞品分析</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>03 · [项目名称]</h3>
-<p>[一句话说明用户问题、产品方案与核心价值。]</p>
-<p><strong>My role</strong> — [关键职责]</p>
-<p><strong>Proof</strong> — [结果或学习]</p>
-<p><code>Research</code> <code>Iteration</code> <code>[领域标签]</code></p>
-<p><a href="#">Demo</a> · <a href="#">Case Study</a></p>
+<h3>03 · <a href="https://github.com/du24601-png/hs-copilot-web">HS Copilot</a></h3>
+<p><strong>中文商品归类辅助工作台</strong> — 为进出口归类场景设计：商品理解 → 候选检索 → 属性确认 → 带依据的结果展示。</p>
+<p><strong>My role</strong> — 产品与工程一体：设计归类工作流与「每个结论带依据」的展示方式，用 Node.js + SQLite 实现运行时零第三方依赖的后端。</p>
+<p><strong>Proof</strong> — 已部署阿里云（PM2 + Nginx）真实可用；内置税则与判例数据，配套数据完整性校验、回归评测与提交边界规范。</p>
+<p><code>Vertical AI</code> <code>Workflow</code> <code>Deployed</code></p>
+<p><a href="https://github.com/du24601-png/hs-copilot-web">Repository</a></p>
 </td>
 <td width="50%" valign="top">
 <h3>What I optimize for</h3>
 <p>不是展示功能数量，而是讲清楚问题、关键判断、我的角色，以及产品如何被验证。</p>
 <p><strong>Case study structure</strong> — Context → Decision → Build → Evidence → Learning</p>
+<p><strong>三个项目的同一件事</strong> — AI 提出方案，人保留决定权：Preview → Adopt、确认后才记住、结论必带依据。</p>
 </td>
 </tr>
 </table>
 
 ## 产品思考 · Product Thinking
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="#">[产品拆解标题]</a></h3>
-<p>[用一句话写出你对用户、机制或商业模式的核心判断。]</p>
-<p><code>Product Teardown</code> <code>User Insight</code></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="#">[AI 产品分析标题]</a></h3>
-<p>[写出你对工作流、模型能力或风险边界的观点。]</p>
-<p><code>AI Product</code> <code>Workflow</code></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="#">[构建复盘标题]</a></h3>
-<p>[记录一次产品决策、验证结果或失败后的学习。]</p>
-<p><code>Build Review</code> <code>Iteration</code></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="#">[产品决策标题]</a></h3>
-<p>[解释一个取舍：有哪些选项、为何这样选、如何判断对错。]</p>
-<p><code>Product Decision</code> <code>Experiment</code></p>
-</td>
-</tr>
-</table>
+- <a href="https://github.com/du24601-png/OMNA/blob/HEAD/docs/competitive-analysis.md"><strong>OMNA 竞品分析</strong></a> — AI 记忆产品的差异化：本地优先、用户确认、可审计的读取记录。 <code>Product Teardown</code>
+- <a href="https://github.com/du24601-png/OMNA/blob/HEAD/docs/gtm/OMNA_US_GTM_Strategy_v1.pdf"><strong>OMNA 美国市场 GTM 方案（23 页）</strong></a> — 从产品定位到推广执行的完整规划。 <code>GTM</code>
+- <a href="https://github.com/du24601-png/research-canvas#三个核心差异"><strong>Research Canvas 的三个核心差异</strong></a> — 真实数据、用户控制、数字可追溯：如何让 AI 的产出值得信任。 <code>AI Product</code>
 
 > **Product belief** — AI 产品的价值不在于“能生成”，而在于能否进入真实工作流、被可靠验证，并把最终决定留给人。
-
-
-<!--
-**du24601-png/du24601-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
